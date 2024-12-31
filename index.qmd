@@ -1,0 +1,38 @@
+---
+title: "Hudson Holman"
+format:
+  html:
+    toc: true
+---
+
+## About Me
+Hello! I’m Hudson from Sweaburg, Ontario. I’m 24 years old and I’m currently completing my Bachelor’s degree in mathematics with a focus on statistics at the University of Waterloo. My passion lies in data science, and after graduation in 2025, I aim to pursue a career in the sports industry.
+
+I have hands-on experience using R, SQL, and Excel in all parts of the data science workflow: from data collection and importing to tidying, analyzing, and visualizing, and finally communicating insights to stakeholders.
+
+Feel free to check out my projects to see what inclinations I’m following. I’m always open to new connections and collaborations. Don’t hesitate to reach out — I’d love to chat about your projects, shared interests, and potential opportunities.
+
+Currently reading: *Yes Please* by Amy Poehler
+
+Quote of the week:
+
+> “A ship in harbour is safe, but that is not what ships are built for.” – John Shedd
+
+## Projects
+### Sports
+
+-   [Triple Crown Motocross - 2024 Report](https://hudsholm.github.io/mx_report_2024.html)
+-   [Waterloo Warriors MHKY 2024-25 Midseason Report](https://hudsholm.github.io/mhky_midseason_report_2425.html)
+
+### Writing
+-   [Practical Prose of Harry Potter](https://hudsholm.github.io/practical_prose_of_harry_potter.html)
+-   [The Deathly Hallows Dance](https://hudsholm.github.io/the_deathly_hallows_dance.html)
+
+## Contact
+Email: [hudsholm@gmail.com](mailto:hudsholm@gmail.com) \
+Phone: +1 519-532-9070 \
+Location: Woodstock, Ontario, Canada \
+[Website](https://hudsholm.github.io/) \
+[X](https://www.x.com/hudsholm) \
+[Instagram](https://www.instagram.com/hudsholm/) \
+[LinkedIn](https://www.linkedin.com/in/hudsonholman/) \
